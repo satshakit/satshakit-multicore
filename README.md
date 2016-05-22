@@ -90,15 +90,9 @@ A satshakit board is **totally like an Arduino board**, thus is possible to use 
 
 Here are the connection schemas to program **satshakit laser**, **satshakit cnc** or a **satshakit multicore** with an Arduino as ISP or with a FabISP:
 
-<img src="media/satshakit_laser/satshakit_laser_arduino_programming.png" width="60%">
+<img src="media/readme/satshakit_laser_arduino_programming.png" width="60%">
 
-<img src="media/satshakit_laser/satshakit_laser_fabisp_programming.png" width="60%">
-
-If you made a **satshakit micro**, here are the connection schemas to program it as before for the other satshakits:
-
-<img src="media/satshakit_micro/satshakit_micro_arduino_programming.png" width="60%">
-
-<img src="media/satshakit_micro/satshakit_micro_fabisp_programming.png" width="60%">
+<img src="media/readme/satshakit_laser_fabisp_programming.png" width="60%">
 
 Once everything is connected, follow these steps to upload Arduino bootloader:
 
@@ -111,13 +105,13 @@ With satshakit multicore, you can use an **FTDI USB cable to upload and use you 
 
 Here is the connection schema to program a satshakit multicore using the FTDI cable:
 
-<img src="media/satshakit_laser/satshakit_laser_programming_FTDI.jpg" width="60%">
+<img src="media/readme/satshakit_laser_programming_FTDI.jpg" width="60%">
 
 Remember that if you don't have an FTDI cable you always need a programmer, and to select **File->Upload using a programmer** to upload the code to satshakit.
 
 To use a satshakit like an Arduino, here is the Arduino pinout on satshakit multicore:
 
-<img src="media/satshakit_laser/satshakit_laser_arduino_pin_mapping.png" width="60%">
+<img src="media/readme/satshakit_laser_arduino_pin_mapping.png" width="60%">
 
 What's in the repo
 --
