@@ -47,11 +47,11 @@ Here is the **satshakit multicore board**:
 
 **downloads (right click, download as)**
 
-- [satshakit multicore svg](https://raw.githubusercontent.com/satshas/satshakit/master/media/satshakit_multicore/satshakit_multicore.svg)
-- [satshakit multicore schematic](https://raw.githubusercontent.com/satshas/satshakit/master/eagle_projects/satshakit_multicore/satshakit_multicore.sch)
-- [satshakit multicore board](https://raw.githubusercontent.com/satshas/satshakit/master/eagle_projects/satshakit_multicore/satshakit_multicore.brd)
-- [satshakit multicore BOM Open Document](https://github.com/satshas/satshakit/raw/master/docs/satshakit_others/satshakit_BOM.ods)
-- [satshakit multicore BOM Excel](https://github.com/satshas/satshakit/raw/master/docs/satshakit_others/satshakit_BOM.xlsx)
+- [satshakit multicore svg](https://raw.githubusercontent.com/satshakit/satshakit-multicore/master/media/satshakit_multicore/satshakit_multicore.svg)
+- [satshakit multicore schematic](https://raw.githubusercontent.com/satshakit/satshakit-multicore/master/eagle_projects/satshakit_multicore/satshakit_multicore.sch)
+- [satshakit multicore board](https://raw.githubusercontent.com/satshakit/satshakit-multicore/master/eagle_projects/satshakit_multicore/satshakit_multicore.brd)
+- [satshakit multicore BOM Open Document](https://github.com/satshakit/satshakit-multicore/raw/master/docs/satshakit_BOM.ods)
+- [satshakit multicore BOM Excel](https://github.com/satshakit/satshakit-multicore/raw/master/docs/satshakit_BOM.xlsx)
 
 **media**
 
