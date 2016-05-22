@@ -1,6 +1,6 @@
-<h1 style="font-family: courier;" align="center"> satshakit</h1>
+<h1 style="font-family: courier;" align="center">satshakit multicore</h1>
 <p align="center">
-<img src="media/readme/satshakites.jpg" width="70%">
+<img src="media/satshakit_multicore/satshakit_multicore_5.jpg" width="70%">
 <div align="center"><i>An improved & fabbable 100% Arduino IDE/libraries compatible board.</i></div>
 </p>  
 
@@ -121,9 +121,9 @@ To use a satshakit like an Arduino, here is the Arduino pinout on satshakit mult
 
 What's in the repo
 --
-- **[docs](https://github.com/satshas/satshakit/tree/master/docs)**: BOM files for Farnell
-- **[egle projects](https://github.com/satshas/satshakit/tree/master/eagle_projects)**: eagle projects of satshakit
-- **[media](https://github.com/satshas/satshakit/tree/master/media)**: svg of satshakits, connections schemas, images for cnc milling machine and fiber laser cutter, other images
+- **[docs](https://github.com/satshakit/satshakit-multicore/tree/master/docs)**: BOM files for Farnell
+- **[egle projects](https://github.com/satshakit/satshakit-multicore/tree/master/eagle_projects)**: eagle projects of satshakit
+- **[media](https://github.com/satshakit/satshakit-multicore/tree/master/media)**: svg of satshakits, connections schemas, images for cnc milling machine and fiber laser cutter, other images
 
 Authors
 --
